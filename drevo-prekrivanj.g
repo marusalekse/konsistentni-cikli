@@ -3,7 +3,7 @@ LoadPackage("digraphs");
 # gamma := [[2, 3, 4, 5], [1, 3, 4, 5], [1, 2, 4, 5], [1, 2, 3, 5], [1, 2, 3, 4]];
 # G := AutomorphismGroup(Digraph(gamma));
 
-drevoPredstavnikov := function (gamma, G)
+drevoPrekrivanj := function (gamma, G)
   local G, T, v, u, P, G_v, G_u, S, R, P_, R_, S_, p, N, r, s, p_2, g, X_g, r_i, w, O, p_, r_, s_;
 
 

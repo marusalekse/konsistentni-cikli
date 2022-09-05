@@ -1,4 +1,4 @@
-V datoteki `drevo-predstavnikov.gap` je zapisana izvirna koda algoritma 1, ki sprejme
+V datoteki `drevo-prekrivanj.gap` je zapisana izvirna koda algoritma 1, ki sprejme
 
 - graf $\Gamma$, ki je podan s tabelo, v kateri so zapisani sosedi vsakega vozlisca
 - grupo $G$, ki locno tranzitivno deluje na grafu $\Gamma$
